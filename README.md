@@ -18,8 +18,7 @@ The roadmap for Dawned 2024/2025
 ## Stage Two - Frontend Redesign
 - ~~Convert figma design into CSS~~
 - **Dawned IS NOW IN BETA**
-- Add backend functionality to front end
-- Make Dawned AI page, add functionality
+-~~Add backend functionality to front end~~
 
 ## Stage Three - Polishing + Publicize API
 - Fix little bugs (there always is)
@@ -28,7 +27,7 @@ The roadmap for Dawned 2024/2025
 - Make developer mode, which shows the API page, with the ability to make bot accounts, and read documentation (JS)
 
 ## Stage Four - Public Beta + App Development
-- Release Dawned to the public
+-~~Release Dawned to the public~~
 - Advertise Dawned!!!!
 - Start production on Android app
 - Release Android beta app
